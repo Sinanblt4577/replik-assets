@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "imagePath": "questions/soru1.webp",
+      "answerImagePath": "questions/soru1-2.webp",
+      "text": "1) Ne dedi? Konuşarak cevap ver!",
+      "keys": ["bak", "soyluyorum", "boyle", "olmaz"],
+      "min": 2
+    },
+    {
+      "imagePath": "questions/soru2.webp",
+      "answerImagePath": "questions/soru2-2.webp",
+      "text": "2) Ne dedi? Konuşarak cevap ver!",
+      "keys": ["tamam", "hadi", "basla"],
+      "min": 2
+    }
+  ]
+}
