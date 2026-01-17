@@ -28,7 +28,15 @@
       "text": "Hadi tahmin edelim...",
       "keys": ["dedeye", "sahip", "çıkalım","dedecim","dedeciğim","dedem"],
       "min": 2
+    },
+    {
+      "imagePath": "questions/soru4.webp",
+      "answerImagePath": "questions/soru4-2.webp",
+      "text": "Hadi tahmin edelim...",
+      "keys": ["seyretme", "lan", "dana"],
+      "min": 2
     }
   ]
 
 }
+
