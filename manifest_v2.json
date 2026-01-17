@@ -37,8 +37,8 @@
       "min": 2
     },
     {
-      "imagePath": "questions/Soru6.webp",
-      "answerImagePath": "questions/Soru6-2.webp",
+      "imagePath": "questions/soru6.webp",
+      "answerImagePath": "questions/soru6-2.webp",
       "text": "Hadi tahmin edelim...",
       "keys": ["lanet", "olsun", "sevgi","seni","sevmiştim","niye","böyle","yapıyorsun"],
       "min": 4
@@ -46,6 +46,7 @@
   ]
 
 }
+
 
 
 
