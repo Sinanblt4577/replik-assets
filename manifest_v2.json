@@ -30,8 +30,8 @@
       "min": 2
     },
     {
-      "imagePath": "questions/soru5.webp",
-      "answerImagePath": "questions/soru5-2.webp",
+      "imagePath": "questions/Soru5.webp",
+      "answerImagePath": "questions/Soru5-2.webp",
       "text": "Hadi tahmin edelim...",
       "keys": ["seyretme", "lan", "dana"],
       "min": 2
@@ -39,5 +39,6 @@
   ]
 
 }
+
 
 
